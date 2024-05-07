@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Memcache"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Memcache"
+	}
+}
